@@ -6284,7 +6284,6 @@
           "image": "https://i.postimg.cc/HWSrLYPJ/Im-Iwp-Rm.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "Reload Backend",
           "title": "CHALLENGES DISABLED",
           "body": "We have disabled challenges temporaily due to data not caching! Resolving This Issue Next Update.",
           "spotlight": false
