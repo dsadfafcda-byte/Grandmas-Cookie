@@ -1139,6 +1139,7 @@
           "special_border": "HighStakes",
           "_type": "FortPlaylistInfo",
          "display_name": "Solo Lategame",
+        "violator": "RELOAD BACKEND" 
         },
         {
           "image": "https://i.imgur.com/99n3n0m.jpg",
