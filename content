@@ -6364,12 +6364,11 @@
       "_type": "Battle Royale News",
       "messages": [
         {
-          "image": "https://i.imgur.com/ImIwpRm.png",
+         "image": "https://i.postimg.cc/yNxMBpmG/News.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "adspace": "ENJOY!",
-          "title": "CHALLENGES DISABLED",
-          "body": "We have disabled challenges temporaily due to data not caching! Resolving This Issue Next Update.",
+          "title": "PATCH V6.21",
+          "body": "Welcome To Season 6, please report any bugs via feedback!",
           "spotlight": false
         }
       ]
