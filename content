@@ -1133,16 +1133,15 @@
           "_type": "FortPlaylistInfo"
         },
         {
-          "image": "https://cdn2.unrealengine.com/s18-br-lategame2-newsheader-1900x600-4b329e68f671.jpg?resize=1&w=2560",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/BR06_Fortnitemares_In-GamePlaylist_1024x512_-Solo-1024x512-7e7fe76e48beb3a06da0592cb26e412265986e4d.jpg",
           "playlist_name": "Playlist_DefaultSolo",
           "hidden": false,
-          "special_border": "HighStakes",
           "_type": "FortPlaylistInfo",
-         "display_name": "Solo Lategame",
+         "display_name": "Solo",
         "violator": "MOST PLAYED!" 
         },
         {
-          "image": "https://i.imgur.com/99n3n0m.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/BR06_Fortnitemares_In-GamePlaylist_1024x512_Duos-1024x512-1eadb7cfab62c9eb5c90c65577c676d5d0bb15c2.jpg",
           "playlist_name": "Playlist_DefaultDuo",
           "hidden": true,
           "special_border": "None",
@@ -1154,7 +1153,7 @@
           "_type": "FortPlaylistInfo"
         },
         {
-          "image": "https://i.imgur.com/YA4ssMv.jpg",
+          "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/BR06_Fortnitemares_In-GamePlaylist_1024x512_Squads-1024x512-783a0812f6acf1f5931c8015e6ad13c0b76c5a9c.jpg",
           "playlist_name": "Playlist_DefaultSquad",
           "hidden": true,
           "special_border": "None",
@@ -6281,11 +6280,11 @@
       ],
       "messages": [
         {
-          "image": "https://i.postimg.cc/HWSrLYPJ/Im-Iwp-Rm.png",
+          "image": "https://i.postimg.cc/yNxMBpmG/News.png",
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "title": "CHALLENGES DISABLED",
-          "body": "We have disabled challenges temporaily due to data not caching! Resolving This Issue Next Update.",
+          "title": "PATCH V6.21",
+          "body": "Welcome To Season 6, please report any bugs via feedback!",
           "spotlight": false
         }
       ]
